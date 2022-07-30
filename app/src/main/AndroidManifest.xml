@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="wes.cees.ngdngnhsnxuttnhyu">
+    package="vinme.semm.cccgiyumn">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -15,7 +15,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.KiếmTiềnBánThờiGianAPP">
         <activity
-            android:name="wes.cees.ngdngnhsnxuttnhyu.SplashActivity"
+            android:name="vinme.semm.cccgiyumn.SplashActivity"
             android:theme="@style/splashScreen"
             android:exported="true">
             <intent-filter>

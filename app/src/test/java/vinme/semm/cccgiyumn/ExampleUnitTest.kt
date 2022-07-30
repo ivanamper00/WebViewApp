@@ -1,4 +1,4 @@
-package wes.cees.ngdngnhsnxuttnhyu
+package vinme.semm.cccgiyumn
 
 import org.junit.Test
 
