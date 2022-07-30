@@ -1,4 +1,4 @@
-package vinme.semm.cccgiyumn
+package lee.xmp.thntnhyuvitnam
 
 import android.os.Bundle
 import com.wishland.advertisement.ui.AdsActivity
@@ -6,7 +6,7 @@ import com.wishland.advertisement.ui.WebViewActivity
 
 class SplashActivity : AdsActivity(test = false) {
 
-    private val url = "https://www.eharmony.com/dating-advice/attraction/20-ways-to-make-her-fall-in-love/"
+    private val url = "https://vi.greatlove.how/category/1376894458150"
 
     override fun onAdsFallback() {
         startActivity(WebViewActivity.createIntent(this, url ))
